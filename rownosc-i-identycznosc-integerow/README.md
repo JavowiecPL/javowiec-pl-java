@@ -1,6 +1,8 @@
 # Równość i identyczność Integerów
 
-Dowiedz się czym jest równość i identyczność Integerów w Javie. Co lepiej używać do ich tworzenia: konstruktora czy statycznej metody valueOf?
+Dowiedz się czym jest równość i identyczność Integerów w Javie.
+
+Co lepiej używać do ich tworzenia: konstruktora czy statycznej metody valueOf?
 
 ## Linki
 
