@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
 
     <modules>
+        <module>jak-dziala-substring-stringa</module>
         <module>optional-orElse-vs-orElseGet</module>
         <module>rownosc-i-identycznosc-integerow</module>
         <module>skanuj-projekt-z-sonarqube</module>
